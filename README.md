@@ -7,7 +7,7 @@ I'm am an upcoming Software Engineer, Content Creator,
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm studied at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
+- 💡 Fun fact: I'm studied at AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2024.
 - 🌱 I’m currently learning Python.
 - 😊 I’m looking for help with internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or Back Engineer (Intern or Junior level).
